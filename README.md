@@ -178,6 +178,9 @@ An integrated chatbot assists users with navigation and basic system-related que
 
 ## Project Structure
 
+## Project Structure
+
+```text
 EmployeeInfoMap/
 │
 ├── backend/
@@ -222,6 +225,7 @@ EmployeeInfoMap/
 ├── uploads/
 │
 └── README.md
+```
 
 
 ## Future Enhancements
